@@ -1,0 +1,16 @@
+{
+    "app_bar": {
+        "title": "ยินดีต้อนรับเข้าสู่หน้าหลัก"
+    },
+    "button": {
+        "cancel": "ยกเลิก",
+        "change_language": "เปลี่ยนภาษา"
+    },
+    "language": {
+        "name": {
+            "en": "อังกฤษ",
+            "th": "ไทย"
+        }
+    },
+    "change_languages_button": "English"
+}
